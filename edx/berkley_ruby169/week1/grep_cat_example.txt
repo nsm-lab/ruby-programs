@@ -1,0 +1,84 @@
+# grep "puts" practice.rb > grep_cat_example.txt
+puts
+puts h
+('hello').each_char do |x| puts x end
+puts s
+puts s
+puts sx
+puts
+puts 'Hi I am Qazi'.length
+puts
+puts 'Hi I am Qazi'.reverse
+puts 'Hi I am Qazi'.downcase
+puts 'Hi I am Qazi'.upcase
+puts 'Hi I am Qazi'.reverse.downcase.upcase  # chain them together
+puts
+3.times { puts 'hello' }
+puts
+puts qazi.upcase  # does not change in place
+puts qazi  # proof of NOT being changed in place
+puts qazi.upcase!  # changes in place
+puts qazi  # proof of being changed in place
+puts 1.class
+puts 'hello'.class
+puts "hello".class
+puts :b.class
+puts
+puts(num, b)
+  puts "hello #{obj} this is #{place}"
+puts "place is: #{place}"
+  puts arg1, arg2, arg3
+  args.each do |x| puts x end
+puts
+  puts
+  puts
+  puts
+  puts input_type
+  puts
+  puts
+puts
+puts
+puts
+    puts
+    puts
+    puts
+    puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+puts
+  puts(value)  # 1, 3. 2 is skipped because it is even.
+puts
+puts
+puts('Entered the enumerator class')
+puts enumerator.class  # --> Enumerator
+  puts "#{index}. #{item}"
+puts
+puts(lol.next)  # => 1
+puts(lol.next)  # => 2
+puts(lol.next)  # => 3
+puts
+    puts 'hello! it\'s me!'
+puts 'con' 'cat' 'en' 'ation'
+puts %q{what is } 'up ' 'cuz!'
+  puts(value)
+  puts(value)
+puts(Time.now)
+puts(Time.now.tuesday?)  # returns a boolean
+puts(Time.now.to_s[0..9])
+# puts(start_time[3])
+puts
+puts
+jfeifierhierfheiogrhioegr w
+g
+ewrjgewjgioewrgjiwerog
